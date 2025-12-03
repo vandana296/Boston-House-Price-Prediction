@@ -1,8 +1,6 @@
-flask
-pandas
+Flask
 numpy
-sklearn
-matplotlib
-seaborn
-scikit-learn==1.3.2
+pandas
+scikit-learn
+joblib
 gunicorn
